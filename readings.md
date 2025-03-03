@@ -11,5 +11,5 @@
    * [Volume 4 (June 2022)](https://collection.eliterature.org/4/)
 
 Select one work from each volume of the Electric Literature Collection that you read and respond to prompts below:
-* What makes the work a piece of digital writing?
-* A personal response (whether you liked it, how it made you feel &c)
+   * What makes the work a piece of digital writing?
+   * A personal response (whether you liked it, how it made you feel &c)
