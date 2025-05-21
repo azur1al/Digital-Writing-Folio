@@ -1,21 +1,21 @@
-##Week One Readings
+Week One Readings
 - "Decolonize" E-Literature?
 - Electronic Literature: What is it?
 
-##Week Two Reading
+Week Two Reading
 - Digital Poesis Impulse
 
-##Week Three Readings
+Week Three Readings
 - Introduction
 - Beyond Taxonomy
 
-##Week Five Reading
+Week Five Reading
 - No Sense of an Ending
 
-##Week Six Readings
+Week Six Readings
 - Riddles
 - On Sovior-Faire
 
-##Week Seven Readings
+Week Seven Readings
 - The Paradox of Poetic Gaming
 - Poetic Playlands
