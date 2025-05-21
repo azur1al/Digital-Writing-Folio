@@ -1,6 +1,7 @@
 # Progress Log
+(This is just a progress log for changes made to the website)
 
-Started: 22/04/2025 - Total Hours = 7
+Started: 22/04/2025 - Total Hours = 13
   - Tested accordion system and played with its functions and limitations.
 - Created first accordion and implemented some formatting.
   - Played with text styling (alignment, font, margins).
