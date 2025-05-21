@@ -41,7 +41,9 @@ Started: 22/04/2025 - Total Hours = 13
 - Wrote up January 1st entry.
 - Added some comments to January 1st entry.
 
-08/05/2025
+<Mostly working on word documents and twine pieces during this break>
+
+08/05/2025 - Total Hours = 0
 - Moved the do you remember HTML and CSS files in here.
 
 20/05/2025
