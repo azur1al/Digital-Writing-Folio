@@ -1,9 +1,10 @@
 # Progress Log
-(This is just a progress log for changes made to the website)
+Total Hours: ~80
+Final Word Count: 5,823
+Twine Count: 10
+Glitch Page Count: 10
 
-If the github.io link isn't working, please access via https://alanas-blog.glitch.me/
-
-Started: 22/04/2025 - Total Hours = 13
+## Started: 22/04/2025 - Total Hours = 13
   - Tested accordion system and played with its functions and limitations.
 - Created first accordion and implemented some formatting.
   - Played with text styling (alignment, font, margins).
@@ -22,29 +23,37 @@ Started: 22/04/2025 - Total Hours = 13
   - Added comment to third accordion.
 
 
-24/04/2025 - Total Hours = 2
+## 24/04/2025 - Total Hours = 2
 - Worked on content and design.
   - Added a background and colour coordinated aspects of the accordion to the background.
 
 
-27/04/2025 - Total Hours = 1
+## 27/04/2025 - Total Hours = 1
 - Added link to Do You Remember external website.
 - Added link to The Seaside Twine short story.
 - Did some fine tuning in the code.
 
 
-30/04/2025 - Total Hours = 0
+## 30/04/2025 - Total Hours = 0
 - Finally remembered to push this to Github.
 
 
-05/05/2025 - Total Hours = 1
+## 05/05/2025 - Total Hours = 1
 - Wrote up January 1st entry.
 - Added some comments to January 1st entry.
 
-<Mostly working on word documents and twine pieces during this break>
-
-08/05/2025 - Total Hours = 0
+## 08/05/2025
 - Moved the do you remember HTML and CSS files in here.
 
-20/05/2025
+## 20/05/2025
 - Moved The Seaside Twine piece HTML file here to test if it would work, which it does!
+
+## Definitely Didn't Forget to Update the Log Updates
+- Added all external sites to main
+- Imported all twines
+- Imported all blog entries
+- Created comments for blog entries
+- Connected each blog post to corresponding twine/external site
+- Did some final testing on the site to make sure everything works as planned
+
+Complete!
