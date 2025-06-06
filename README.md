@@ -105,3 +105,15 @@
   
 <p>Another piece of feedback was that some of the solutions to the puzzles would not be completely evident to those that are not experienced in working through these kind of mystery stories before. As I had already set up an email address for Laura, I decided it would be a good idea to set up a kind of auto-response in case anyone tried emailing it, which contains an offer for help if anyone is stuck.</p>
 <p>Of course, because I am thinking of uploading this to itch.io, people can upload comments on the home page of this piece and ask questions if they are stuck, and hopefully I’ll be able to help them out without completely giving the answer away.</p>
+
+## References
+<p>Carpenter, J. R. (2016). The Gathering Cloud. Retrieved 2025, from https://luckysoap.com/thegatheringcloud/</p>
+<p>Fletcher, J. (2013). The Fetch. Retrieved 2025, from Electronic Literature Collection: https://collection.eliterature.org/4/the-fetch</p>
+<p>Larsen, D., & Hansen, M. (2001). Carving in Possibilities. Retrieved 2025, from Electronic Literature Collection: https://collection.eliterature.org/1/works/larsen__carving_in_possibilities.html</p>
+<p>Michel, K., & Vis, D. (2003). Ah. Retrieved 2025, from Electronic Literature Collection: https://collection.eliterature.org/2/works/michel_ah.html</p>
+<p>Monfort, N. (2009). Taroko Gorge. Retrieved 2025, from Electronic Literature Collection: https://collection.eliterature.org/3/work.html?work=taroko-gorge</p>
+<p>Plotkin, A. (2000). Shade. Retrieved 2025, from People's Republic of Interactive Fiction: https://pr-if.org/play/shade/</p>
+<p>Porpentine. (2014). With Those We Love Alive. Retrieved 2025, from Electronic Literature Collection: https://collection.eliterature.org/3/work.html?work=with-those-we-love-alive</p>
+<p>Short, E., & Daly, L. (2012). First Draft of the Revolution. Retrieved 2025, from Electronic Literature Collection: https://collection.eliterature.org/3/work.html?work=first-draft-of-the-revolution</p>
+<p>Sulzberger, T. (2024). Snow Season. Retrieved 2025, from GitHub: https://tannacat.github.io/final-proj-snow-season/</p>
+
