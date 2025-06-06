@@ -54,6 +54,34 @@
 
 <br>
 
+## - Week Five -
+### Ergodic Literature
+<p>Aarseth’s concept of Ergodic Literature was something that interested me personally as someone who has much more experience on the reader side of this kind of storytelling. It has given me a lot to consider about what I would like to do for my final project, how the way that I incorporate interactive elements can influence or interfere with a reader’s experience and perspective of the piece.</p>
+
+<p>One of my favourite quotes was, “[w]eb text is close to that of a painting, where the artist may modify and revise the same work in a process that may take many years” (Aarseth, 1997, p. 81), which as someone who has come from a visual arts background to writing was a particularly interesting point. There is one artwork of mine, a costume, that I have been working on for near four years now, adding bits and pieces here and there as the years go by. Each year I think, ‘yes, this is it, I’ve finally finished it’, before I have another idea and it’s being changed again. I can only imagine that with something like interactive fiction, if I were to make something I would be continuously working on it for a very long time.</p>
+
+<p>I was also incredibly taken by the idea that the author is the “only one who has full comprehension of the text’s composition at any time” (Aarseth, 1997, p. 81), something that again is incredibly interesting as someone who has read from interactive fiction more than I have written it. I think that, when thinking of interactive fiction that I have been the most interested in over the years, this has been one of the most alluring points of them – trying to find every possible scrap of information, every possible scene, every possible ending, to try and piece together the whole picture, that’s what I love the most about interactive fiction.</p>
+
+<p>I also liked the idea that “[i]t may be argued that click-able words and menus subvert the lyrical genre aspect by inviting the user to play an (imagined) personal role in the production of a reading path” (Aarseth, 1997, pp. 85-86), again a lot of interactive fiction I enjoy are ones wherein you as a reader are a part of the world you are reading, you are a character as well as a reader, though they work best when they are subtle and not outright with it.</p>
+
+<p>Overall I thought it was a very interesting reading with a lot of important points to consider as I continue on through this class.</p>
+
+### Mapping Ideas
+<p>When we discussed how we were mapping out our projects in class, I was able to talk about how I have been using Miro to map out both a timeline as well as a map of the website and its branches. Miro has been an incredibly useful tool for me for a long time in regard to planning out storylines. I’ve used it before in several larger projects where it was absolutely necessary to have a timeline map of the project that could be accessed by numerous people and will definitely use it again. It's been incredibly useful for this project and I'm glad that I've been able to use it.</p>
+
+<br>
+
+## - Week Six -
+### Previous Student’s Work
+<p>This week we took a look at some examples of previous students’ works. I especially enjoyed <a href="https://tannacat.github.io/final-proj-snow-season/">Snow Season</a> by Tanna Sulzberger, who had used Twine to create their piece. I really enjoyed the way that the piece was formatted, how the text faded from scene to scene, lingering on, and how the images for each scene played with the text. I thought that at some points though the text was a bit difficult to read thanks to the background image conflicting with the white text, it only added to the experience and made it all that more interesting to read. I really admired the way that the text had been formatted for this piece, especially considering the fact that I had tried so hard to figure out how to do my own formatting within Twine, I feel as though I was able to have an extra layer of understanding for the author of this piece and their probable struggles with the formatting.</p>
+
+### Image Styling, Image Maps, and Audio in Twine
+<p>GitHub Repo: https://github.com/azur1al/digital-writing-image-map-test</p>
+<p>I had a lot of fun working with the image mapping and background images for this Twine experiment! I’m not sure if image mapping is something that I will use for my final project but it’s definitely something fun to consider! I had a bit of trouble with the audio and ended up making three different versions of the Twine which either don’t work at all or only work in incredibly specific conditions I am not at all partial to. Such is code, I think.</p>
+<p>I’ve been thinking of using specific backgrounds on each of my twines in my final project to help to separate the different characters that they are referencing. I originally was going to have a different background for each twine, but I think that having some consistency will help the reader to feel a bit more grounded.</p>
+
+<br>
+
 ## - Week Seven -
 ### Bitsy and Inform7
 <p>GitHub Repo: https://github.com/azur1al/bitsy-test</p>
