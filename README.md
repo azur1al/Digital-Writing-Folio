@@ -1,4 +1,4 @@
-# Digital-Writing-Folio
+# Digital Writing Folio
 
 ## - Week One -
 ### The Electronic Literature Collection
